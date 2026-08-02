@@ -1,5 +1,3 @@
-# NovaCrest-Cloud-Security-Programme
-Multi-cloud security assessment, compliance framework mapping and cloud provider questionnaire for a self-directed UK financial services firm — AWS &amp; Azure | ISO 27001 | CSA STAR | CIS Benchmarks
 # NovaCrest Financial Services — Cloud Security Programme
 
 > Multi-cloud GRC and security compliance programme for a self-directed 
